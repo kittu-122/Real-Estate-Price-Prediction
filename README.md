@@ -45,7 +45,7 @@ To run this project, follow these steps:
 1. Clone the repository and navigate to the project directory.
 2. Run the Jupyter notebook to view the entire workflow or execute each cell step by step to replicate the analysis.
 
-### Major Libraries Used:
+## Major Libraries Used:
 - `numpy`
 - `pandas`
 - `matplotlib`
