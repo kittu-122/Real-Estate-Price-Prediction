@@ -31,8 +31,6 @@ The dataset used in this project is **Bengaluru House Data**, which includes the
 ### 3. Model Building
 The machine learning models are built and trained using common algorithms such as:
 - Linear Regression
-- Decision Trees
-- Random Forest
 
 ### 4. Model Evaluation
 The models are evaluated using performance metrics such as:
